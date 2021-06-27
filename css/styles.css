@@ -176,7 +176,7 @@ p {
   padding: 3% 2% 2% 0%;
 }
 
-@media (max-width: 1028px) {
+@media (max-width: 600px) {
 
   #title {
     padding: 10% 15% 7%;
@@ -184,6 +184,7 @@ p {
 
   .big-heading {
     font-size: 2.5rem;
+    text-align: center;
   }
 
   .testimonial-text {
@@ -195,7 +196,7 @@ p {
   }
 
   .download-btn {
-    margin: 40px 6px;
+    margin: 20px 6px;
   }
 
   .title-img-container {
