@@ -176,7 +176,7 @@ p {
   padding: 3% 2% 2% 0%;
 }
 
-@media (max-width: 1028px) {
+@media (max-width: 600px) {
 
   #title {
     padding: 10% 15% 7%;
