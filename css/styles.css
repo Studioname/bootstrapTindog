@@ -176,7 +176,7 @@ p {
   padding: 3% 2% 2% 0%;
 }
 
-@media (max-width: 1028px) {
+@media (max-width: 950px) {
 
   .big-heading {
     font-size: 2.5rem;
@@ -203,6 +203,10 @@ p {
   .title-img {
     position:static;
     transform: rotate(0deg);
+  }
+
+  #title .container-fluid {
+    padding: 10% 15% 7%;
   }
 }
 
