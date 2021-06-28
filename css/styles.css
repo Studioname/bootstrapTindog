@@ -176,10 +176,14 @@ p {
   padding: 3% 2% 2% 0%;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1024px) {
 
   #title {
     padding: 10% 15% 7%;
+  }
+
+  .btn-container {
+    margin: 5% 1.5% 5% 1.5%;
   }
 
   .big-heading {
